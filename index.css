@@ -127,20 +127,6 @@ section.programs{
     position: relative;
     z-index: 1;
 }
-img.card-bg-svg-1{
-    width: 100%;
-    position: absolute;
-    left: -120px;
-    top: -75px;
-    z-index: -1;
-}
-img.card-bg-svg-2{
-    width: 100%;
-    position: absolute;
-    right: -120px;
-    top: -75px;
-    z-index: -1;
-}
 .program-card img{
     margin-bottom: 48px;
 }
